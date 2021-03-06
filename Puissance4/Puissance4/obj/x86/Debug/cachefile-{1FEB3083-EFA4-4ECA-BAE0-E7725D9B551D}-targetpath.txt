@@ -1,0 +1,10 @@
+Content\images\cadre.xnb
+Content\images\pionjaune.xnb
+Content\images\pionrouge.xnb
+Content\images\background.xnb
+Content\font\Arial.xnb
+Content\font\Arial2.xnb
+Content\font\Arial3.xnb
+Content\sound\ocean.xnb
+Content\images\ocean.xnb
+Content\images\ocean2.xnb
